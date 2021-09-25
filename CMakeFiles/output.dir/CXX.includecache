@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/manu/Desktop/ColoreadoImagen/main.cpp
+stdio.h
+-
+iostream
+-
+opencv4/opencv2/opencv.hpp
+-
+vector
+-
+string
+-
+omp.h
+-
+

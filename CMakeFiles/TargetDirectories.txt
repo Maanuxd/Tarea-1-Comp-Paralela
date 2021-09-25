@@ -1,0 +1,3 @@
+/home/manu/Desktop/ColoreadoImagen/CMakeFiles/rebuild_cache.dir
+/home/manu/Desktop/ColoreadoImagen/CMakeFiles/edit_cache.dir
+/home/manu/Desktop/ColoreadoImagen/CMakeFiles/output.dir
